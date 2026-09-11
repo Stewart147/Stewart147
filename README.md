@@ -1,10 +1,10 @@
 <div align="center">
-<h1>Hi, Stewart</h1>
+<h1>Hi, My name is Stewart</h1>
 <h3>Developer &nbsp;•&nbsp; Front-End Developer &nbsp;•&nbsp;<!-- Back-End Developer &nbsp;•&nbsp; Cloud Developer --!></h3>
 <p>
 Building web applications <!--from front to back --> — HTML, CSS, Tailwind, JavaScript, React. <!-- Python, SQL, and Cloud. -->
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer; Web Design" alt="Typing animation" />
 </div>
 <div align="center">
 <a href="#">
