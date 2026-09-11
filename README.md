@@ -4,7 +4,7 @@
 <p>
 Building web applications <!--from front to back --> — HTML, CSS, Tailwind, JavaScript, React. <!-- Python, SQL, and Cloud. -->
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer; Web Design" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer;" alt="Typing animation" />
 </div>
 <div align="center">
 <a href="#">
