@@ -93,17 +93,17 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
      <!--   <li>Canvas API</li> -->
       </ul>
     </td>
-    <td>
+ <!--   <td>
       <ul>
-     <!--   <li>Python Scripting</li> 
+        <li>Python Scripting</li> 
         <li>SQL & Databases</li>
         <li>Command Line / CLI</li>
         <li>REST Principles</li>
         <li>Data-Driven Apps</li>
         <li>GitHub & Version Control</li>
-        <li>Portfolio Deployment</li>  -->
+        <li>Portfolio Deployment</li>  
       </ul>
-    </td>
+    </td> -->
     <td>
       <ul>
         <li>AWS Fundamentals</li>
