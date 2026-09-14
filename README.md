@@ -72,12 +72,13 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="AWS, Azure, Git, GitHub, VSCode"/>
 </p>
-<h2>Full-Stack Skills</h2>
+<!-- <h2>Full-Stack Skills</h2> -->
+     <h2>Skills</h2>
 <div align="center">
 <table>
   <tr>
     <th align="center">Front-End</th>
-    <th align="center">Back-End & Data</th>
+  <!--  <th align="center">Back-End & Data</th> -->
     <th align="center">Cloud & Tooling</th>
   </tr>
   <tr>
@@ -94,7 +95,7 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
     </td>
     <td>
       <ul>
-     <!--   <li>Python Scripting</li> -->
+     <!--   <li>Python Scripting</li> 
         <li>SQL & Databases</li>
         <li>Command Line / CLI</li>
         <li>REST Principles</li>
