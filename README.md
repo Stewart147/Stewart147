@@ -7,9 +7,9 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer;" alt="Typing animation" />
 </div>
 <div align="center">
-<a href="#">
+<!-- add portfolio here when completed <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/stewart-smart-826967432">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
