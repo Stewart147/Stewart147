@@ -41,7 +41,7 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="#" />
+      <img src=https://media.licdn.com/dms/image/v2/D4E03AQFg3lsCS1rd_w/profile-displayphoto-crop_800_800/B4EaCfm656KgAM-/0/1789384176122?e=1790812800&v=beta&t=94BIt6OJrLiJITN1nBy__FQoU-JTGMyz69xcIfQtseU"" />
     </td>
   </tr>
 </table>
