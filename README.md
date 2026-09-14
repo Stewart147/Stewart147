@@ -45,7 +45,7 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
     </td>
   </tr>
 </table>
-<h2>Full-Stack Technology Stack</h2>
+<!-- <h2>Full-Stack Technology Stack</h2> -->
 <h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -85,31 +85,31 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
       <ul>
         <li>HTML5 Semantics</li>
         <li>CSS3 & Tailwind</li>
-        <li>SASS / Preprocessors</li>
+    <!--    <li>SASS / Preprocessors</li> -->
         <li>JavaScript (ES6+)</li>
         <li>React.js & Hooks</li>
         <li>Responsive Design</li>
-        <li>Canvas API</li>
+     <!--   <li>Canvas API</li> -->
       </ul>
     </td>
     <td>
       <ul>
-        <li>Python Scripting</li>
+     <!--   <li>Python Scripting</li> -->
         <li>SQL & Databases</li>
         <li>Command Line / CLI</li>
         <li>REST Principles</li>
         <li>Data-Driven Apps</li>
         <li>GitHub & Version Control</li>
-        <li>Portfolio Deployment</li>
+        <li>Portfolio Deployment</li>  -->
       </ul>
     </td>
     <td>
       <ul>
         <li>AWS Fundamentals</li>
         <li>Microsoft Azure</li>
-        <li>Git Workflow</li>
+     <!--   <li>Git Workflow</li> -->
         <li>VS Code</li>
-        <li>Netlify / Static Hosting</li>
+     <!--   <li>Netlify / Static Hosting</li> -->
         <li>GitHub Pages</li>
         <li>Cloud Security Basics</li>
       </ul>
