@@ -16,9 +16,9 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
 <a href="mailto:stewartsmart1@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="YourGitHubProfileHere">
-<!--  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/> -->
-       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<!-- <a href="YourGitHubProfileHere"> -->
+     <a href="github.com/Stewart147">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/> 
 </a>
 </div>
 <h2>About Me</h2>
