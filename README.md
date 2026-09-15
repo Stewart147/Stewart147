@@ -188,10 +188,10 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
     </td>
   </tr>
 </table>  -->
-<h2>GitHub Analytics</h2>
+<!-- <h2>GitHub Analytics</h2>
 <div align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
-</div>
+</div> -->
 <h3>Activity Graph</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
