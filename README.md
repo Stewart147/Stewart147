@@ -118,7 +118,8 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
   </tr>
 </table>
 </div>
-<h2>Featured Projects</h2>
+  <!-- Projects to be added later -->
+<!-- <h2>Featured Projects</h2>
 <table>
   <tr>
     <td width="50%">
@@ -186,7 +187,7 @@ Building web applications <!--from front to back --> — HTML, CSS, Tailwind, Ja
       </ul>
     </td>
   </tr>
-</table>
+</table>  -->
 <h2>GitHub Analytics</h2>
 <div align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
